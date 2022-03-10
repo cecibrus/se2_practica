@@ -1,9 +1,10 @@
 # se2_practica
 hola
 
-## COlaboradores
+## Colaboradores
 
 lucas martinez
+Erik Wasmosy
 
 ya tienen su fork y su clone en pc
 
