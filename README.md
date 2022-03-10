@@ -1,7 +1,11 @@
 # se2_practica
 hola
 
+14:10
+
+
 ## Colaboradores
+
 
 lucas martinez
 Erik Wasmosy
@@ -16,5 +20,9 @@ coding mods
 git add .
 git commit -m 'title'
 git push
+
+
+Fecha de hoy: 3/10/2022
+
 
 
