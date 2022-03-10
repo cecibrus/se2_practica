@@ -1,9 +1,14 @@
 # se2_practica
 hola
 
-## COlaboradores
+14:10
+
+
+## Colaboradores
+
 
 lucas martinez
+Erik Wasmosy
 
 ya tienen su fork y su clone en pc
 
@@ -20,3 +25,7 @@ git push
 |\---/|
 | o_o |
  \_^_/
+
+Fecha de hoy: 3/10/2022
+
+
