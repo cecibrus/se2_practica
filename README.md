@@ -1,6 +1,6 @@
 # se2_practica
-hola
+Hola
 
-## COlaboradores
+## Colaboradores
 
-lucas martinez
+Lucas Martinez
