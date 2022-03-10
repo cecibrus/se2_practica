@@ -17,7 +17,6 @@ git commit -m 'title'
 git push
 
 
-> /\_/\
->( o.o )
-> > ^ <
-> I tried
+|\---/|
+| o_o |
+ \_^_/
